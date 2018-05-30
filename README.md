@@ -1,5 +1,6 @@
 # Music-Recommender
 A music recommendation system using the Yahoo! music dataset
+
 INTRODUCTION
 
 The goal is to propose a music recommendation system based on user preference analysis. To do this, we analyze raw scores from the dataset. These consist of ratings for music items, which is given by the user. A recommender system is defined as a system that is able to find entities in a dataset that may be of interest to the user. In contrast to search engines, recommender systems do not base their results on a query, instead they rely on implicit and explicit connections between users and items, such as ratings or other past interactions.
